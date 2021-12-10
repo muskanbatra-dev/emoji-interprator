@@ -1,2 +1,2 @@
 # emoji-interprator
-Created with CodeSandbox
+THIS IS AN INTERPRATOR CREATED WITH REACT .IN THIS WE CAN SEE THE NAME OF THE EMOJI
